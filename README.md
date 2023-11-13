@@ -1,4 +1,4 @@
-👋 Hi there, I’m Dina Alhamed, a Science graduate specializing in Artificial Intelligence and currently working as an AI engineer.
+👋 Hi there, I’m Dina, a Science graduate specializing in Artificial Intelligence and currently working as an AI engineer.
 
 👀 My interests span the breadth of Artificial Intelligence, including machine learning, deep learning, computer vision, natural language processing, and robotics.
 
